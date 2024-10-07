@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ravi Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I’m Ravi Singh, a passionate Data Analyst and a Java Developer from India. I love exploring data to uncover insights and drive impactful decisions.
+
+In addition to my analytical skills, I enjoy competitive coding, where I tackle complex challenges to sharpen my problem-solving abilities. I am also an enthusiastic contributor to open source projects, as I believe in the power of collaboration and sharing knowledge.
+
+Feel free to connect with me to discuss data analysis, coding challenges, or open-source contributions!</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="Your GIF" width="300" align="Right"/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravisingh48" alt="ravisingh48" /></a> </p>
