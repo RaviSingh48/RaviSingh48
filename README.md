@@ -30,7 +30,7 @@
 </p>
 
 - 📫 How to reach me: **singhravi80096@gmail.com**
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ravi-singh--" target="blank">
