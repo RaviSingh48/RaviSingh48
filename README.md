@@ -11,16 +11,11 @@
     <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
   </div>
 </div>
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ravisingh48&label=Profile%20views&color=0e75b6&style=flat" alt="ravisingh48" /> 
 </p>
 <br>
-
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ravisingh48" alt="ravisingh48" />
-  </a> 
-</p>
 
 <p align="left"> 
   <a href="https://twitter.com/" target="blank">
@@ -28,8 +23,14 @@
   </a> 
 </p>
 
-- 📫 How to reach me: **singhravi80096@gmail.com**
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ravisingh48&theme=onedark&no-frame=true&margin-w=15" alt="ravisingh48" />
+  </a> 
+</p>
 
+- 📫 How to reach me: **singhravi80096@gmail.com**
+- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/ravi-singh--" target="blank">
@@ -39,6 +40,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
   </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -54,6 +56,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravisingh48&show_icons=true&locale=en&layout=compact" alt="ravisingh48" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravisingh48&" alt="ravisingh48" /></p>
+
+
+
+
+
 
 
 
