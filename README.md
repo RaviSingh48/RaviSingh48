@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Ravi Singh</h1>
-<h3 align="center">
-I’m Ravi Singh, a passionate Data Analyst and a Java Developer from India. 
-I love exploring data to uncover insights and drive impactful decisions. 
+<h3 align="center">A passionate Data Analyst and Java Developer from India</h3>
 
-In addition to my analytical skills, I enjoy competitive coding, where I tackle complex challenges to sharpen my problem-solving abilities. 
-I am also an enthusiastic contributor to open source projects, as I believe in the power of collaboration and sharing knowledge.
-</h3>
-
-<!-- GIF on the left side -->
-<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" alt="Your GIF" width="350" align="Right"/>
-
-<!-- Profile view counter shifted to the right -->
-<p align="leftt"> 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <p>
+      I’m Ravi Singh, a Third-year CSE student passionate about exploring data to uncover insights and drive impactful decisions. With experience in various programming languages and frameworks, I enjoy diving into competitive coding to enhance my problem-solving abilities. I have a strong interest in open-source collaboration, as I believe in the power of sharing knowledge.
+    </p>
+  </div>
+  <div style="flex: 1;">
+    <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
+  </div>
+</div>
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=ravisingh48&label=Profile%20views&color=0e75b6&style=flat" alt="ravisingh48" /> 
 </p>
+<br>
 
-<!-- Trophy section on the left side below the GIF -->
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=ravisingh48" alt="ravisingh48" />
@@ -49,11 +49,7 @@ I am also an enthusiastic contributor to open source projects, as I believe in t
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Support:</h3>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravisingh48&show_icons=true&locale=en&layout=compact" alt="ravisingh48" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravisingh48&show_icons=true&locale=en" alt="ravisingh48" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravisingh48&" alt="ravisingh48" /></p>
+
 
