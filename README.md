@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p>
-      I’m Ravi Singh, a Third-year CSE student passionate about exploring data to uncover insights and drive impactful decisions. With experience in various programming languages and frameworks, I enjoy diving into competitive coding to enhance my problem-solving abilities. I have a strong interest in open-source collaboration, as I believe in the power of sharing knowledge.
+      I’m Ravi Singh, a final year CSE student passionate about exploring data to uncover insights and drive impactful decisions. With experience in various programming languages and frameworks, I enjoy diving into competitive coding to enhance my problem-solving abilities. I have a strong interest in open-source collaboration, as I believe in the power of sharing knowledge.
     </p>
   </div>
   <div style="flex: 1;">
