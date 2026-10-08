@@ -4,7 +4,9 @@
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p>
-      I’m Ravi Singh, a final year CSE student passionate about exploring data to uncover insights and drive impactful decisions. With experience in various programming languages and frameworks, I enjoy diving into competitive coding to enhance my problem-solving abilities. I have a strong interest in open-source collaboration, as I believe in the power of sharing knowledge.
+  Hi, I’m Ravi Singh! 👋
+
+I’m a Computer Science graduate passionate about exploring data to uncover insights and drive impactful decisions. With a solid foundation across various programming languages, frameworks, and database tools, I enjoy tackling complex problems and building practical software solutions. I also have a strong interest in open-source collaboration, as I believe in the power of shared knowledge and continuous learning.
     </p>
   </div>
   <div style="flex: 1;">
