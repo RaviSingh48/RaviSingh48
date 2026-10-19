@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋 A Developer - Building software with a purpose & turning real-world problems into practical solutions.</h1>
+<h1 align="center">Hi 👋 I'm Ravi SIngh a Developer - Building software with a purpose & turning real-world problems into practical solutions.</h1>
 <h3 align="center"> A Web developer from Inida Building practical technology for problems that matter. </h3>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p>
-  Hi, I’m Ravi Singh! 👋
+  
 
 
 ### Computer Science & Engineering (AI) Graduate | Python Developer | AI Enthusiast
 
-I’m a Computer Science & Engineering (AI) graduate interested in building practical software solutions and exploring the rapidly evolving field of Artificial Intelligence.
+I’m a Computer Science & Engineering graduate interested in building practical software solutions and exploring the rapidly evolving field of Artificial Intelligence.
 
 My current focus is backend development with Python and FastAPI, along with building reliable applications using SQL and PostgreSQL. I’m also exploring Generative AI and Agentic AI, particularly the development of applications powered by LLMs and LangChain.
 
