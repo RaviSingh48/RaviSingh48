@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Ravi SIngh a Developer - Building software with a purpose & turning real-world problems into practical solutions.</h1>
+<h1 align="center">Hi 👋 I'm Ravi Singh a Developer - Building software with a purpose & turning real-world problems into practical solutions.</h1>
 <h3 align="center"> A Web developer from Inida Building practical technology for problems that matter. </h3>
 
 <div style="display: flex; align-items: center;">
