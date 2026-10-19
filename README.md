@@ -1,12 +1,57 @@
-<h1 align="center">Hi 👋, I'm Ravi Singh</h1>
-<h3 align="center"> A Data Analyst & Java Developer from India</h3>
+<h1 align="center">Hi 👋 A Developer - Building software with a purpose & turning real-world problems into practical solutions.</h1>
+<h3 align="center"> A Web developer from Inida Building practical technology for problems that matter. </h3>
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p>
   Hi, I’m Ravi Singh! 👋
 
-I’m a Computer Science graduate passionate about exploring data to uncover insights and drive impactful decisions. With a solid foundation across various programming languages, frameworks, and database tools, I enjoy tackling complex problems and building practical software solutions. I also have a strong interest in open-source collaboration, as I believe in the power of shared knowledge and continuous learning.
+
+### Computer Science & Engineering (AI) Graduate | Python Developer | AI Enthusiast
+
+I’m a Computer Science & Engineering (AI) graduate interested in building practical software solutions and exploring the rapidly evolving field of Artificial Intelligence.
+
+My current focus is backend development with Python and FastAPI, along with building reliable applications using SQL and PostgreSQL. I’m also exploring Generative AI and Agentic AI, particularly the development of applications powered by LLMs and LangChain.
+
+---
+
+### Tech Stack
+
+```text
+Python        ████████████████████
+FastAPI       ██████████████████
+SQL           █████████████████
+PostgreSQL    █████████████████
+Git/GitHub    █████████████████
+```
+
+### Currently Exploring
+
+- Generative AI
+- Agentic AI
+- Large Language Models (LLMs)
+- LangChain
+- RAG & Embeddings
+- AI-powered Applications
+
+### What I’m Working On
+
+Building backend applications and experimenting with AI-based solutions that combine software engineering with emerging GenAI technologies.
+
+### Development Focus
+
+```python
+focus = {
+    "Backend": ["Python", "FastAPI", "REST APIs"],
+    "Database": ["SQL", "PostgreSQL"],
+    "Tools": ["Git", "GitHub"],
+    "AI": ["LLMs", "LangChain", "GenAI", "Agentic AI"]
+}
+```
+
+### Connect
+
+I’m open to opportunities, collaborations, and projects related to Python development, backend engineering, and AI.
     </p>
   </div>
   <div style="flex: 1;">
